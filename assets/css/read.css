@@ -1,0 +1,24 @@
+.box {
+    position:relative;
+    top: 20px;
+    width:1000px; 
+    height:700px; 
+    margin:0 auto; 
+}
+
+.box0 {
+    position:relative;
+    top: 20px;
+    width:1200px; 
+    height:700px; 
+    margin:0 auto; 
+    border:1px solid #ccc;
+    background-color: rgb(255, 255, 255);
+    opacity:0.75; 
+}    
+
+h6, p{
+    color: black;
+    position:relative;
+    top: 30px;
+    }
